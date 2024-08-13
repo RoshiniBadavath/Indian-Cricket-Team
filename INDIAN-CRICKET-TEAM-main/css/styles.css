@@ -1,0 +1,46 @@
+.hrn{
+  border-color: #ffffff;
+  border-style: dotted;
+  width: 20%;
+  border-radius: 40px;
+  border-spacing: 2%;
+  display: inline-block;
+  border-bottom: none;
+  border-left: none;
+  border-right: none;
+}
+.Fi:hover{
+  filter: invert(32%) sepia(96%) saturate(1441%) hue-rotate(190deg) brightness(106%) contrast(105%);;
+}
+.col{
+  margin-left:auto;
+  margin-right: auto;
+
+}
+.card
+{
+  margin-left:auto;
+  margin-right: auto;
+  justify-content: center;
+  text-align: center;
+  height: 150px;
+  width: 180px;
+}
+.cardimage
+{
+  margin-left: auto;
+  margin-right: auto;
+}
+.Fi:hover{
+  display:-webkit-inline-box ;
+  height: 20px;
+  width: 20px;
+  background-color: rgba(255,255,255,0.2);
+  margin:0 10px 10px 0;
+  text-align: center;
+  line-height: 40px;
+  border-radius: 50%;
+  color: #ffffff;
+  transition: all 0.3s ease;
+  color: white;
+}
